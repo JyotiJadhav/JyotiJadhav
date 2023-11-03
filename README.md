@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JyotiJadhav
 - 👀 I’m interested in coding, reading books, learning new technology
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Python
 - 📫 You can reach me at jadhavjyotic1992@gmail.com
 
 <!---
